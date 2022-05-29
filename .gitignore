@@ -1,3 +1,5 @@
 /.DS_Store
 /Cpp20TemplateProject
 *.dSYM
+.vscode
+*.DS_Store
