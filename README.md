@@ -8,3 +8,6 @@ Would like to try:
 - Passing array as a pointer
 - Test with larger arrays
 - Create a timer and do some measurements
+
+## Next attempt - Insertion Sort
+Trying to wrap my head around this
