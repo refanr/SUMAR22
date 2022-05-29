@@ -12,7 +12,14 @@ void printArray(int arg[], int length)
 
 void insertionSort(int arg[], int length)
 {
-    
+    int currentIndex;
+    for (int i=1;i<length;i++)
+    {
+        if (arg[i]<arg[i-1])
+        {
+            
+        }
+    }
 }
 
 int main()
