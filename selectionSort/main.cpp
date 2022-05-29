@@ -40,9 +40,9 @@ int main()
     
 
 
-    int theArray[10] = {16,2,77,40,12,71,30,120,88,35};
+    int theArray[20] = {16,2,77,40,12,71,30,120,88,35,17,3,78,41,13,72,31,121,89,36};
 
-    selectionSort(theArray,10);
+    selectionSort(theArray,20);
 
     return 0;
 }
